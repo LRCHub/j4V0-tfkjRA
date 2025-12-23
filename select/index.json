@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Countdown",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T05:52:18.356133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Countdown",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/01_Countdown_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Countdown",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/02_Countdown_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Countdown",
+      "artist": "AMBER feat. LDN NOISE",
+      "has_synced": true,
+      "path": "select/03_Countdown_AMBER_feat._LDN_NOISE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Countdown (Feat. LDN Noise)",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/04_Countdown_(Feat._LDN_Noise)_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Countdown",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/05_Countdown_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Countdown to Extinction",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/06_Countdown_to_Extinction_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Countdown to Extinction (Live)",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/07_Countdown_to_Extinction_(Live)_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/08_The_Final_Countdown_Europe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Countdown to Christmas Partytime",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/09_Countdown_to_Christmas_Partytime_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Final Countdown",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Gunhild Carling",
+      "has_synced": false,
+      "path": "select/10_The_Final_Countdown_Scott_Bradlee's_Postmodern_Jukebox_feat._Gunhild_Carling.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Final Countdown",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/11_The_Final_Countdown_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/12_The_Final_Countdown_Europe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/13_The_Final_Countdown_Europe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Countdown",
+      "artist": "UVERworld, ジョン・ヨンファ",
+      "has_synced": false,
+      "path": "select/pl_01_Countdown_UVERworld,_ジョン・ヨンファ.txt"
+    }
+  ]
+}
